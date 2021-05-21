@@ -14,7 +14,7 @@ const AvailableMeals = (props) => {
         getPosts();
         const interval=setInterval(()=>{
             getPosts()
-        },1000)
+        },500)
         return()=>clearInterval(interval)
     }, []);
     const getPosts = () => {
