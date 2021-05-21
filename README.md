@@ -5,5 +5,4 @@
 * Here I have used the MongoDB as a database to store the list of menu items.
 
 ## Here is the demo site
-(https://backbenchersmeals.netlify.app/)
-  
+(https://saradarestaurantmenu.netlify.app/)  
